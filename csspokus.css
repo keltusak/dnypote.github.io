@@ -1,0 +1,69 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 100%;
+}
+body{
+    background: rgb(199,199,199);
+    background: linear-gradient(90deg, rgba(199,199,199,1) 0%, rgba(215,189,166,1) 35%, rgba(183,214,182,1) 100%);
+}
+hr{
+    color: black;   
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+nav a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 140px 300px 110px; 
+
+}
+.uvodniNAV{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200%;
+
+    position: relative; 
+    
+}
+nav{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.centered1 {
+    position: absolute;
+    top: 20%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    padding: 5em 9.5em 6em;
+    
+
+}
+
+.centered2 {
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 5em 9.5em 6em;
+    
+}
+
+.centered3 {
+    position: absolute;
+    top: 88%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 5em 9.5em 6em;
+    
+}
+
+nav a:hover{
+    color:chartreuse;
+    font-size: 120%;
+}
+
