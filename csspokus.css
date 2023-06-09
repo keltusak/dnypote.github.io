@@ -7,6 +7,14 @@ h1{
     margin-right: auto;
     margin-bottom: 20px;
     width: 100%;
+    max-width: 1000px;
+}
+.centerx{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 100%;
 }
 body{
     background: rgb(199,199,199);
@@ -40,8 +48,6 @@ nav{
     left: 50%; 
     transform: translate(-50%, -50%); 
     padding: 5em 9.5em 6em;
-    
-
 }
 
 .centered2 {
