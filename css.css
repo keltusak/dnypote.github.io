@@ -67,6 +67,9 @@ hr{
     margin-right: auto;
     width: 75%; 
     max-width:700px;
-    
+}
 
+.udaje{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
